@@ -1,1 +1,2 @@
 # Piano
+Utilizing HTML, CSS, and JavaScript, I developed a virtual piano that users can play using their computer keyboard or mouse. HTML structured the piano keys, CSS styling was applied to create the visual layout, and JavaScript enabled the piano's sound generation and interactivity. The project highlighted my ability to create user-friendly interfaces that provide both visual and auditory experiences.
